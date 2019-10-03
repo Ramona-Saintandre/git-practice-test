@@ -11,5 +11,6 @@ Today I am created my first repo and setting it up for colaboration with Hacktob
  * [ ] learn one new GIT command today 
 
  ##ISSUES  
-Need to figure out why even though I am logged in as codinggrandma using the codinggrandma credentials. 
-I can not do a push to the repo from VScode, only from the Gitdesktop
+1. Need to figure out why even though I am logged in as codinggrandma using the codinggrandma credentials. 
+2. I can not do a push to the repo from VScode, only from the Gitdesktop
+3. I can not create a pull request from thenewmona account
