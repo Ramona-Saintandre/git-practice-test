@@ -2,13 +2,18 @@
 
 The beginning of git journey. 
 The goal is to become profiecent with GIT and it's functionality. 
-Today I am created my first repo and setting it up for colaboration with Hacktoberfest.   
+Today I am created my first repo and setting it up for colaboration with Hacktoberfest. 
+
+Very interensting day today. 
+Could not get anything to work right, had to dealt and recreate my repo so may times. 
+Github desktop is tell me that I have a dirty file, need to find out what that means 
  ##Goals fo today
  * [ ] learn to create labels 
  * [ ] get the configuration correct for working with multiple git accounts 
  * [ ] learn how to merge a pull request 
  * [ ] should I put this in the README.md so everyone can see 
  * [ ] learn one new GIT command today 
+ * [ ] What is a dirty file?
 
  ##ISSUES  
 1. Need to figure out why even though I am logged in as codinggrandma using the codinggrandma credentials. 
