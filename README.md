@@ -11,13 +11,15 @@
  Feel free to create what ever you would like in this. 
 
  I will try to post a new challenge every day in the gitlearn.md file. 
+ 
+ Also if you have a REPO, that your are needing help with, or would like to offer up for people to 
+ contribute to. 
+ Please feel free to put a link  into the gitlearn.md file. 
 
- Please document what you did or are trying to do in the gitlearn.md documentation. 
+ Please document what you did or are trying to do in the gitlearn.md documentation.  
+ 
+ The monas-git-journey.md is my blog/journal for this Hacktoberfest. 
+
+This is where I post issues and or successes that I have had. 
 
  
- ##Goals fo today 10/3/2019  
- * [ ] learn to create labels 
- * [ ] get the configuration correct for working with multiple git accounts 
- * [ ] learn how to merge a pull request 
- * [ ] should I put this in the README.md so everyone can see 
- * [ ] learn one new GIT command today
