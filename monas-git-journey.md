@@ -38,3 +38,9 @@ Went into Github, and verified the PR, and then merged the PR.
 But the folder is still grayed out in Github.
 
 ![grayed out folders issues](/images/github-gray-folder.png)
+
+**10/14/2019**
+
+First day of Grand Circus.
+Going to learn Git merge tonight. 
+looking forward to fixing this repo. 
