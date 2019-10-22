@@ -1,6 +1,16 @@
 10/3/2019
 ## Gitlearn 
+
 **10/3/2019** 
+
+
+
+
+Created a master repository with all of my Hacktoberfest activity. 
+Did this from thenewmona account
+
+**10/3/2019** 
+
 
 **[thenewmona](https://github.com/thenewmona)**  
 Hopefully I am doing these changes under thenewmona@gmail.com account.  
@@ -112,3 +122,11 @@ Ok so I had no errors this time doing the commit or the push.
 All the folders Repo's are gone.  
 Except for the Cutter and Angular folder.   
 I have verified that they are not empty, but they are still grayed out in github. 
+**10/7/2019** Adding images 
+
+Having issues with my repo on Github, so I am a little late with getting the image. 
+I did put an image on the git-journey page.
+It works fine, but when I try this way as per the video, I an not get it to render. 
+I did do a gitmerge on this repo, now I just need to figure out how to merge my branch. 
+gray folder issue <img src= "./git-practice-test/images/github-gray-folder.png">
+`>>>>>>> 2e78ec4fbbd045b7fbfca04113f7f8c133c9330f`
