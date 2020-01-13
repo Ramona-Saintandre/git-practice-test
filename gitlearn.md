@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
+10/3/2019
+=======
 
+>>>>>>> Stashed changes
 ## Gitlearn 
 **10/3/2019** 
 
@@ -27,7 +31,10 @@ I did put an image on the git-journey page.
 It works fine, but when I try this way as per the video, I an not get it to render. 
 
 gray folder issue <img src= "./git-practice-test/images/github-gray-folder.png">
+<<<<<<< Updated upstream
+=======
 
 **10/14/2019**
 
 Needing to figure out how to get these repos sync'd
+>>>>>>> Stashed changes

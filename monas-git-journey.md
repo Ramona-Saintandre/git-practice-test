@@ -1,5 +1,18 @@
 **10/3/2019**
 
+<<<<<<< Updated upstream
+The beginning of git journey. 
+The goal is to become profiecent with GIT and it's functionality. 
+Today I am created my first repo and setting it up for colaboration with Hacktoberfest. 
+
+Very interensting day today. 
+Could not get anything to work right, had to dealt and recreate my repo so may times. 
+Github desktop is tell me that I have a dirty file, need to find out what that means 
+ ##Goals to do by the end of Hacktoberfest  
+  
+ ##ISSUES  
+1. Need to figure out why even though I am logged in as codinggrandma using the codinggrandma credentials. 
+=======
 The beginning of git journey.
 The goal is to become profiecent with GIT and it's functionality.
 Today I am created my first repo and setting it up for colaboration with Hacktoberfest.
@@ -22,11 +35,17 @@ Github desktop is tell me that I have a dirty file, need to find out what that m
 
  ##ISSUES  
 1. Need to figure out why even though I am logged in as codinggrandma using the codinggrandma credentials.
+>>>>>>> Stashed changes
 2. I can not do a push to the repo from VScode, only from the Gitdesktop
 3. I can not create a pull request from thenewmona account
 
 **10/7/2019** thenewmona
 
+<<<<<<< Updated upstream
+ ##ISSUES  
+Need to figure out why even though I am logged in as codinggrandma using the codinggrandma credentials. 
+I can not do a push to the repo from VScode, only from the Gitdesktop
+=======
 Unfortunately I missed the mark this weekend.
 Did not work on any of my goals that I set.
 Following some recommendations from Stackoverflow, in regards to have .git file inside of the folders of the master, could be a reason why my folders are grayed out. 
@@ -44,3 +63,4 @@ But the folder is still grayed out in Github.
 First day of Grand Circus.
 Going to learn Git merge tonight. 
 looking forward to fixing this repo. 
+>>>>>>> Stashed changes
